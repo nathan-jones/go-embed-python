@@ -3,7 +3,7 @@ package python
 import (
 	"bytes"
 	"fmt"
-	"github.com/kluctl/go-embed-python/internal"
+	"github.com/nathan-jones/go-embed-python/internal"
 	"github.com/stretchr/testify/assert"
 	"io"
 	"math/rand"

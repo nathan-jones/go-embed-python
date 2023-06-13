@@ -2,8 +2,8 @@ package python
 
 import (
 	"fmt"
-	"github.com/kluctl/go-embed-python/embed_util"
-	"github.com/kluctl/go-embed-python/python/internal/data"
+	"github.com/nathan-jones/go-embed-python/embed_util"
+	"github.com/nathan-jones/go-embed-python/python/internal/data"
 	"os"
 	"os/exec"
 	"path/filepath"
